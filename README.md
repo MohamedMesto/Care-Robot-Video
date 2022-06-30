@@ -42,3 +42,6 @@ by ZEMS: Zentraleinrichtung Moderne Sprachen - TU Berlin.
 License under the [MIT License] (LICENSE).
 
 ![](images/carerobot1.png)
+![](images/carerobot2.png)
+![](images/carerobot3.png)
+![](images/carerobot4.png)
